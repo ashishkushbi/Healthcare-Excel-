@@ -1,4 +1,8 @@
 # Healthcare-Excel-
+
+![](https://github.com/ashishkushbi/Healthcare-Excel-/blob/main/Screenshot%202025-02-17%20092226.png)
+
+
 ##📊 𝐁𝐮𝐢𝐥𝐭 𝐚𝐧 𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐇𝐞𝐚𝐥𝐭𝐡𝐜𝐚𝐫𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝.
 Hello Everyone!!
 𝐼 𝑠𝑝𝑒𝑛𝑡 𝑚𝑦 𝑤𝑒𝑒𝑘𝑒𝑛𝑑 𝑏𝑢𝑖𝑙𝑑𝑖𝑛𝑔 𝑎𝑛 𝑖𝑛𝑡𝑒𝑟𝑎𝑐𝑡𝑖𝑣𝑒 𝐻𝑒𝑎𝑙𝑡ℎ𝑐𝑎𝑟𝑒 𝐷𝑎𝑠ℎ𝑏𝑜𝑎𝑟𝑑, 𝑤ℎ𝑒𝑟𝑒 𝐼 𝑎𝑛𝑎𝑙𝑦𝑧𝑒𝑑 𝑝𝑎𝑡𝑖𝑒𝑛𝑡 𝑑𝑒𝑚𝑜𝑔𝑟𝑎𝑝ℎ𝑖𝑐𝑠 𝑎𝑐𝑟𝑜𝑠𝑠 𝑘𝑒𝑦 𝑎𝑠𝑝𝑒𝑐𝑡𝑠:
